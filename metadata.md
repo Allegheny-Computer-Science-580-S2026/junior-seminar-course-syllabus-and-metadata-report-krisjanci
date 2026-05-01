@@ -67,7 +67,7 @@ during presentations, demonstrations, or informal discussions. Include:
 
 - **Researcher Name / Project**: Coltin Colucci
 - **Feedback Provided**: I think his intro was overall really good and detailed, key improvements could be made in improving readibility and clearly definining the distiguishing factor of his project.
-- **Impact**: NA
+- **Impact**: Helped clarify the unique focus and presentation of the project.
 - **Reference**: (https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/7)
 
 - **Researcher Name / Project**: Evan Nelson
@@ -77,10 +77,9 @@ during presentations, demonstrations, or informal discussions. Include:
 
 - **Researcher Name / Project**: Benedek Kaibas
 - **Feedback Provided**: Some sentences in the methodology are too information dense. Reformating and spreading the information may be easier to read and understand.
-- **Impact**: NA
+- **Impact**: Helped improve readability and organization of the methodology section.
 - **Reference**: (https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/13)
 
-Example entries:
 
 - **Javier Bejarano / Project Significance**: Discussed the scope of the problem based on my families experience in manifacturing management.
 
