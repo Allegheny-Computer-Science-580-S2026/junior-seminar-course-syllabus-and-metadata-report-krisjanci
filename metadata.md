@@ -2,9 +2,7 @@
 
 ## Researcher Name
 
-A research group member should type their name below.
-
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: Kristian Janci
 
 ## Reading Syllabus Pledge
 
@@ -12,7 +10,7 @@ A research group member should add an X-mark to the box to indicate that they
 have carefully read and understood the Junior Seminar Research Project Syllabus
 and that they are ready to complete their Junior Seminar Research Project.
 
-- [ ] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [x] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
@@ -21,77 +19,100 @@ A research group member should add an X-mark to the box to indicate that they
 agree to adhere to the Allegheny College Honor Code during the completion of
 their Junior Seminar Research Project.
 
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [x] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
-A research group member should type their GitHub username below.
-
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: krisjanci
 
 ## GitHub Repositories
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-krisjanci)
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/krisjanci/Cognitive-Fatigue-Agent)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/krisjanci/Cognitive-Fatigue-Agent-Experiment-Data#)
 
 ## Research Project Title
 
-A research group member should type the title of their junior seminar research
-project into the following fenced code block.
 
-```text
-Add the Title of Your Junior Seminar Research Project
+```
+Cognitive Fatigue Agent
 ```
 
 ## Research Group Contributions
 
-As a member of the Junior Seminar research group, document how you contributed
-to the research community beyond your individual project. This section reflects
-the collaborative nature of research work and your engagement with fellow
-researchers.
-
 ### Peer Research Feedback
 
-Document significant feedback you provided to other research group members
-during presentations, demonstrations, or informal discussions. Include:
+- **Researcher Name / Project**: Coltin Colucci
+- **Feedback Provided**: I think his intro was overall really good and detailed, key improvements could be made in improving readibility and clearly definining the distiguishing factor of his project.
+- **Impact**: Helped clarify the unique focus and presentation of the project.
+- **Reference**: (https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/7)
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Researcher Name / Project**: Evan Nelson
+- **Feedback Provided**: Improve readibility by enlarging formulars and bolding key statements, include graphs and visual represenatation of the app.
+- **Impact**: Feedback was acted upon and graphs were added.
+- **Reference**: (https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/19)
 
-Example entries:
+- **Researcher Name / Project**: Benedek Kaibas
+- **Feedback Provided**: Some sentences in the methodology are too information dense. Reformating and spreading the information may be easier to read and understand.
+- **Impact**: Helped improve readability and organization of the methodology section.
+- **Reference**: (https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/13)
 
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
+
+- **Javier Bejarano / Project Significance**: Discussed the scope of the problem based on my families experience in manifacturing management.
+
+- **Brennen Wright / Competition Implementation**: Since the competition aspect is based on self assessment, cheating or assigning unfair score defeats the point of the competitive nature of the app. I suggeted to have local groups of friends and family which may work on trust rater than creating complex varifying methods.
+
+- **Javier Bejarano / Experiment Results**: Suggested to tie how costs change based on different testing variations and how the accuracy of the imaging could effect the business.
+
+**Autumn Devison / Website Future Work**: Suggested that intergrating AI to produce new recipies based on available ingredients.
+
+**Hannah Brown / Presentation Recommendation**: Suggested including specific data for her future presenatations.
 
 ### Technical Discussions and Problem-Solving
 
-Document instances where you participated in collaborative technical
-discussions or helped fellow researchers troubleshoot issues:
+- **Discussion Topic / Problem**: During a meeting with Gregory M. Kapfhammer, we discussed how to narrow the scope of my cognitive fatigue detection project so it would be feasible within one semester.
+- **Your Contribution**: I proposed focusing on a lightweight Chrome extension using mouse efficiency and reaction time instead of a more complex system-wide application.
+- **Outcome**: This helped define a realistic research direction and allowed steady prototype development.
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
 
-Example entries:
+- **Discussion Topic / Problem**: In consultation with Gregory M. Kapfhammer, we reviewed technical issues with building my Quarto and LaTeX research report.
+- **Your Contribution**: I brought error logs and explained rendering problems, then worked through fixes involving dependencies and formatting.
+- **Outcome**: The report successfully compiled into the required PDF format for submission.
+
+
+- **Discussion Topic / Problem**: I met with Gregory M. Kapfhammer to discuss how to measure cognitive fatigue objectively in my prototype.
+- **Your Contribution**: I suggested combining passive mouse tracking with an active reaction-time verification test to reduce false positives.
+- **Outcome**: This improved the methodology and created a stronger evaluation framework for the project.
+
+
+- **Discussion Topic / Problem**: During a research discussion with Gregory M. Kapfhammer, we examined how to organize experimental results for clear interpretation.
+- **Your Contribution**: I recommended using correlation graphs, tables, and validity discussion to compare reaction time with mouse efficiency data.
+- **Outcome**: The final results chapter became more reproducible and easier to analyze.
+
+
+- **Discussion Topic / Problem**: In a progress meeting with Gregory M. Kapfhammer, we discussed improving the usability of the Chrome extension interface.
+- **Your Contribution**: I suggested a simple popup dashboard with session metrics, fatigue alerts, and an embedded reaction-time test for user feedback.
+- **Outcome**: The prototype became more practical to demonstrate and easier for users to understand.
+
+
+- **Discussion Topic / Problem**: During a future-planning discussion with Gregory M. Kapfhammer, we explored how the project could evolve beyond a browser prototype after the semester ended.
+- **Your Contribution**: I proposed expanding the system into a cross-platform desktop application with broader behavioral inputs such as keyboard activity, window switching, and long-term trend tracking.
+- **Outcome**: This helped identify realistic future work directions and demonstrated the project’s potential scalability beyond the initial MVP.
+
+
+- **Discussion Topic / Problem**: In a technical conversation with Professor Jumadinova, we discussed whether machine learning could improve cognitive fatigue detection accuracy.
+- **Your Contribution**: I suggested integrating supervised models such as logistic regression or classification pipelines using multiple signals including mouse efficiency, click timing, and reaction time data.
+- **Outcome**: The discussion established machine learning integration as a strong avenue for future work and a way to create more adaptive personalized predictions.
+
 
 - **Docker Containerization Issues**: Shared my Dockerfile configuration and
   helped three researchers set up their development environments
@@ -103,44 +124,37 @@ Example entries:
 
 ### Research Group Meeting Participation
 
-Note particularly meaningful contributions during research group meetings:
+- **Meeting Date / Topic**: 15th April 2026
+- **Contribution**: Shared how my experiment findings led to a new way of looking at how mouse efficiency could be used to detect cognitive fatigue.
+- **Value to Group**: Showed an example of how a failed experiment can be used to answer alternative questions.
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
+- **Meeting Date / Topic**: 20th Februeary 2026
+- **Contribution**: In a table discussion, I discussed how to write a good usage instructions manual.
+- **Value to Group**: Helped brainstorm ideas that make good and bad manuals.
 
-Example entries:
+- **Meeting Date / Topic**: 20th February 2026
+- **Contribution**: Presentated a way to simplify and improve the instalation manual.
+- **Value to Group**: Presenated that some projects can be posted online on things like the appstore or the chrome web store like my project, making instalation significantly easier for a non-cs educated person.
 
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
 
 ### Research Resources Shared
 
-Document any research papers, tools, tutorials, or other resources you shared
-with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
+- **Resource**: Quarto and GitHub Pages Publishing Guides
+- **Shared With**: Javier
+- **Purpose**: Helped him understand how to publish research journals and websites through GitHub Pages.
 
-Example entries:
+- **Resource**: GitHub Repository Documentation Examples
+- **Shared With**: Entire research group table
+- **Purpose**: Shared examples of clear installation instructions and usage documentation for technical prototypes.
 
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
 
 ## Additional Project Information
 
-Please use this section to record any other relevant information about your
-Junior Seminar research project, your research process, or any other
-information that your research adviser or the research group coordinator deems
-important for you to document.
+Throughout this semster I've gained 3 extra credits:
+
+1. Having our whole table render the journals and the report and release the pdf version of our reports.
+2. Found a bug in the grading code.
+3. Presented the research project effectively in 45 seconds on our final friday session.
+
+This project explored whether cognitive fatigue can be estimated through behavioral computer interaction signals. Although correlations were weaker than expected, the research revealed important insights about task context, behavioral variability, and future machine learning opportunities.
