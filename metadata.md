@@ -2,8 +2,6 @@
 
 ## Researcher Name
 
-A research group member should type their name below.
-
 - **Researcher Name**: Kristian Janci
 
 ## Reading Syllabus Pledge
@@ -26,8 +24,6 @@ their Junior Seminar Research Project.
 
 ## GitHub Username
 
-A research group member should type their GitHub username below.
-
 - **GitHub Username**: krisjanci
 
 ## GitHub Repositories
@@ -42,12 +38,10 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/krisjanci/Cognitive-Fatigue-Agent-Experiment-Data#)
 
 ## Research Project Title
 
-A research group member should type the title of their junior seminar research
-project into the following fenced code block.
 
 ```
 Cognitive Fatigue Agent
@@ -55,15 +49,7 @@ Cognitive Fatigue Agent
 
 ## Research Group Contributions
 
-As a member of the Junior Seminar research group, document how you contributed
-to the research community beyond your individual project. This section reflects
-the collaborative nature of research work and your engagement with fellow
-researchers.
-
 ### Peer Research Feedback
-
-Document significant feedback you provided to other research group members
-during presentations, demonstrations, or informal discussions. Include:
 
 - **Researcher Name / Project**: Coltin Colucci
 - **Feedback Provided**: I think his intro was overall really good and detailed, key improvements could be made in improving readibility and clearly definining the distiguishing factor of his project.
@@ -92,10 +78,6 @@ during presentations, demonstrations, or informal discussions. Include:
 **Hannah Brown / Presentation Recommendation**: Suggested including specific data for her future presenatations.
 
 ### Technical Discussions and Problem-Solving
-
-Document instances where you participated in collaborative technical
-discussions or helped fellow researchers troubleshoot issues:
-
 
 - **Discussion Topic / Problem**: During a meeting with Gregory M. Kapfhammer, we discussed how to narrow the scope of my cognitive fatigue detection project so it would be feasible within one semester.
 - **Your Contribution**: I proposed focusing on a lightweight Chrome extension using mouse efficiency and reaction time instead of a more complex system-wide application.
@@ -132,8 +114,6 @@ discussions or helped fellow researchers troubleshoot issues:
 - **Outcome**: The discussion established machine learning integration as a strong avenue for future work and a way to create more adaptive personalized predictions.
 
 
-Example entries:
-
 - **Docker Containerization Issues**: Shared my Dockerfile configuration and
   helped three researchers set up their development environments
 - **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
@@ -143,8 +123,6 @@ Example entries:
   pipeline failures; documented solution in group Slack channel
 
 ### Research Group Meeting Participation
-
-Note particularly meaningful contributions during research group meetings:
 
 - **Meeting Date / Topic**: 15th April 2026
 - **Contribution**: Shared how my experiment findings led to a new way of looking at how mouse efficiency could be used to detect cognitive fatigue.
@@ -161,8 +139,6 @@ Note particularly meaningful contributions during research group meetings:
 
 ### Research Resources Shared
 
-Document any research papers, tools, tutorials, or other resources you shared
-with the research group that helped advance collective knowledge:
 
 - **Resource**: Quarto and GitHub Pages Publishing Guides
 - **Shared With**: Javier
