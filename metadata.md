@@ -151,4 +151,10 @@ Cognitive Fatigue Agent
 
 ## Additional Project Information
 
+Throughout this semster I've gained 3 extra credits:
+
+1. Having our whole table render the journals and the report and release the pdf version of our reports.
+2. Found a bug in the grading code.
+3. Presented the research project effectively in 45 seconds on our final friday session.
+
 This project explored whether cognitive fatigue can be estimated through behavioral computer interaction signals. Although correlations were weaker than expected, the research revealed important insights about task context, behavioral variability, and future machine learning opportunities.
